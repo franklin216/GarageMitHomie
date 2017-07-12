@@ -2,5 +2,5 @@
 .piolibdeps
 .clang_complete
 .gcc-flags.json
-.\LichtUndTore\data\homie\config.json
-.\RFID\data\homie\config.json
+/LichtUndTore/data/homie/config.json
+/RFID/data/homie/config.json

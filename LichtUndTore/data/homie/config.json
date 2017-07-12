@@ -6,7 +6,7 @@
     "password": "password"
   },
   "mqtt": {
-    "host": "mqtt_ip1",
+    "host": "mqtt_ip4",
     "port": 1883,
     "mdns": "mqtt",
     "base_topic": "devices/",
