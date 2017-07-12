@@ -1,0 +1,24 @@
+{
+  "name": "Das Garagen Licht",
+  "device_id": "garagen-node",
+  "wifi": {
+    "ssid": "ssid",
+    "password": "password"
+  },
+  "mqtt": {
+    "host": "mqtt_ip",
+    "port": 1883,
+    "mdns": "mqtt",
+    "base_topic": "devices/",
+    "auth": true,
+    "username": "user",
+    "password": "password"
+  },
+  "ota": {
+    "enabled": false,
+    "host": "ota_ip",
+    "port": 80,
+    "mdns": "ota",
+    "path": "/custom_ota"
+  }
+}
