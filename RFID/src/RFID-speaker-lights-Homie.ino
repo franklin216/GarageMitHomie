@@ -22,7 +22,7 @@
 HomieNode rfidNode("RFID-1", "sensor");
 
 // Audio
-#include "pitches.h"
+//#include "pitches.h"
 
 // RFID
 #include "MFRC522.h"
